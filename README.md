@@ -1,2 +1,2 @@
 # cgan
-conditional wgan 
+conditional wgan-gp 
